@@ -77,7 +77,7 @@ Place your .wav audio samples into the samples/ directory.
 
 ### 4. Run the Application
 
-python trap_gui.py
+python gui.py
 
 ---
 
