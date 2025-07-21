@@ -1,5 +1,5 @@
 # TrapML 🎛️🎶  
-**AI-Powered Trap Beat Generator**
+**AI-Powered Trap Beat Generator** 
 
 TrapML is a neural beat generation system designed to produce trap-style drum and melody sequences using PyTorch RNNs, audio synthesis, and a dynamic GUI. Built for producers, researchers, and creatives, this tool combines rhythmic neural modeling with real-time audio layering to output unique, high-quality beats from curated samples.
 
@@ -52,7 +52,7 @@ These demonstrate the variety of outputs achievable with TrapML by adjusting BPM
 
 ### 1. Install Dependencies
 
-pip install torch pydub
+pip install torch pydub tkinter
 
 
 Make sure you have ffmpeg installed and accessible in your system PATH:
