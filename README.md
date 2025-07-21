@@ -54,16 +54,19 @@ These demonstrate the variety of outputs achievable with TrapML by adjusting BPM
 
 pip install torch pydub
 
+
 Make sure you have ffmpeg installed and accessible in your system PATH:
+
 
 On macOS:
 brew install ffmpeg
+
 
 On Windows, download from ffmpeg.org and add it to your PATH.
 
 ### 2. Clone the Repository
 
-git clone https://github.com/yourusername/TrapML.git
+git clone https://github.com/Anton9921/TrapML.git
 cd TrapML
 
 ---
