@@ -48,36 +48,27 @@ These demonstrate the variety of outputs achievable with TrapML by adjusting BPM
 
 ---
 
-## 🚀 How to Use
-
-### 1. Install Dependencies
-
-pip install torch pydub tkinter
-
-
-Make sure you have ffmpeg installed and accessible in your system PATH:
-
-
-On macOS:
-brew install ffmpeg
-
-
-On Windows, download from ffmpeg.org and add it to your PATH.
-
-### 2. Clone the Repository
-
+## 📦 Installation
+```bash
+# Clone the repository
 git clone https://github.com/Anton9921/TrapML.git
+
+# Navigate to the project directory
 cd TrapML
 
----
+# Install dependencies
+pip install torch pydub tkinter
+```
 
-### 3. Prepare Samples
+## 🚀 Usage
 
-Place your .wav audio samples into the samples/ directory.
+Place your our my .wav audio samples into the samples/ folder directory.
 
-### 4. Run the Application
+Then proceed to run the file:
 
+```bash
 python gui.py
+```
 
 ---
 
